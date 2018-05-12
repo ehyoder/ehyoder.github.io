@@ -101,7 +101,7 @@ body {
 -------------------------------------------------- */
 
 @media (min-width: 768px) {
-  /* Navbar positioning foo */
+  /* Navbar positioning */
   .navbar-wrapper {
     margin-top: 20px;
   }
@@ -140,4 +140,15 @@ body {
 
   .grid-container {
     display: grid;
+}
+
+  .table {
+    margin: 100px;
+    width:800px;
+    border-spacing:2px;
+
+}
+
+tbody tr:nth-child(odd) {
+  background-color: rgb(57, 103, 134);
 }
