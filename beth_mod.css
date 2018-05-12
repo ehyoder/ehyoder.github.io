@@ -5,7 +5,7 @@
 
 body {
   padding-bottom: 10px;
-  color: yellow;
+  color: rgb(44, 44, 36);
 }
 
 
@@ -49,7 +49,7 @@ body {
 .carousel-caption {
   padding-top: 30px;
   color: rgb(187, 51, 51);
-  font-family: 'Barlow', sans-serif;
+  font-family: 'Pragati Narrow', sans-serif;
 }
 
 /* Declare heights because of positioning of img element */
